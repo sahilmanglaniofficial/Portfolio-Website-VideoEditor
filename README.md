@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Manglani</h1>
-<h3 align="center">A passionate frontend developer!</h3>
+<h3 align="center">A passionate Web developer!</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
 
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning *JavaScript, SQL, Database*
 
-- 👯 I’m completed a project of Portfolio Website [My_first_Project](https://github.com/sahilmanglaniofficial/My_first_project)
+- 👯 I’m completed a project of Portfolio Website [Portfolio-Website-VideoEditor]([https://github.com/sahilmanglaniofficial/My_first_project](https://github.com/sahilmanglaniofficial/Portfolio-Website-VideoEditor))
 
 - 📫 How to reach me *sahilmanglani240023@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahilmanglani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahilmanglani/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/sahilmanglani/](https://www.linkedin.com/in/sahil-manglani-355563375/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahilmanglani/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
