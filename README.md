@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *JavaScript, SQL, Database*
 
-- 👯 I’m completed a project of Portfolio Website [Portfolio-Website-VideoEditor]([https://github.com/sahilmanglaniofficial/My_first_project](https://github.com/sahilmanglaniofficial/Portfolio-Website-VideoEditor))
+- 👯 I’m completed a project of Portfolio Website [Portfolio-Website-VideoEditor]((https://github.com/sahilmanglaniofficial/Portfolio-Website-VideoEditor))
 
 - 📫 How to reach me *sahilmanglani240023@gmail.com*
 
